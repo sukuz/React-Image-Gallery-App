@@ -9,3 +9,7 @@ The App does the following:
 
 
 Tools used: React, react-router-dom, CSS, HTML, Javascript
+
+<img src="images/Screenshot 2020-08-07 at 6.42.22 PM.png">
+<img src="images/Screenshot 2020-08-07 at 6.46.20 PM.png">
+<img src="images/Screenshot 2020-08-07 at 6.47.17 PM.png">
